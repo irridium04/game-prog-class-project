@@ -2189,3 +2189,9 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.04.04-16.57.14:244][891]LogViewport: Scene viewport resized to 1084x709, mode Windowed.
 [2024.04.04-16.57.14:263][892]LogViewport: Scene viewport resized to 1084x702, mode Windowed.
 [2024.04.04-16.57.14:298][893]LogViewport: Scene viewport resized to 1084x691, mode Windowed.
+[2024.04.04-17.03.24:551][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-17.03.24:641][899]LogSavePackage: Moving output files for package: /Game/Collin/Blueprints/BP_Tank
+[2024.04.04-17.03.24:641][899]LogSavePackage: Moving '../../../../../../Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Saved/BP_TankAA7632094633D86157D5E4B0175F6177.tmp' to '../../../../../../Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/Collin/Blueprints/BP_Tank.uasset'
+[2024.04.04-17.03.24:651][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.03 sec)
+[2024.04.04-17.03.24:656][899]AssetCheck: New page: Asset Save: BP_Tank
+[2024.04.04-17.03.24:656][899]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Collin/Blueprints/BP_Tank.BP_Tank
