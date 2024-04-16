@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/targetHit.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/targetHitBullseye.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/targetSpawn.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/spawnMaterial.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LZ/BQA47N98PEWT0S5NRGEKCG.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/testEffect.uasset",
+				"E:/Unreal Engine/UE_5.2/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/I0/W7FJMU97UCGVGGRH4GKVS8.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/rainEffect.uasset"
+			]
+		}
+	]
+}
