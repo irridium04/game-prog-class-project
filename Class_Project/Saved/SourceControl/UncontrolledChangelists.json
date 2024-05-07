@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Collin/Blueprints/BP_Target.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/targetHitBullseye.uasset",
+				"E:/Unreal Engine/UE_5.2/Engine/Plugins/FX/Niagara/Content/DefaultAssets/confettiSprite.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/confettiSprite.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/targetSpawn.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3B/YXZORX9X5SE3TSKRGW6W2F.uasset",
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/TriggerBox_Blueprint.uasset",
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/CountdownTimer.uasset",
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUGS/CountdownTimer.uasset",
