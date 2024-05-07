@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/TriggerBox_Blueprint.uasset",
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/CountdownTimer.uasset",
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUGS/CountdownTimer.uasset",
@@ -14,6 +15,8 @@
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/MainMenuGamemode.uasset",
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/MainMenu.uasset",
 				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/TankImage.uasset",
+=======
+>>>>>>> Stashed changes
 				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/Collin/Levels/TankTestMap_HLOD0_Instancing.uasset",
 				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/__ExternalActors__/Collin/Levels/TankTestMap/C/PT/KJKVZ8RYLDOLSNQ6U42TML.uasset",
 				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/__ExternalObjects__/Collin/Levels/TankTestMap/5/XZ/5UK7KTJOTNCIKD2YRLFWMT.uasset",
@@ -158,7 +161,23 @@
 				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/__ExternalActors__/Collin/Levels/TankTestMap/C/A7/ASXACHC537FC275KSQCIQ8.uasset",
 				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/__ExternalActors__/Collin/Levels/TankTestMap/4/2J/TSYXV74JOGD6NWOWPDVY6J.uasset",
 				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/Collin/Levels/TankTestMap.umap",
-				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/Collin/Blueprints/BP_Tank.uasset"
+				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/Collin/Blueprints/BP_Tank.uasset",
+				"C:/Users/collinshook/Documents/GitHub/game-prog-class-project/Class_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Collin/Blueprints/BP_Target.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/targetHitBullseye.uasset",
+				"E:/Unreal Engine/UE_5.2/Engine/Plugins/FX/Niagara/Content/DefaultAssets/confettiSprite.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/confettiSprite.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/Hans/targetSpawn.uasset",
+				"E:/Unreal Projects/game_programming_2_final/game-prog-class-project/Class_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3B/YXZORX9X5SE3TSKRGW6W2F.uasset",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/TriggerBox_Blueprint.uasset",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/CountdownTimer.uasset",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUGS/CountdownTimer.uasset",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUGS/TriggerBox_Blueprint.uasset",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z1/RQZKYVX6NFY4L2ZR4SID4O.uasset",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/MainMenuMap.umap",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/MainMenuGamemode.uasset",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/MainMenu.uasset",
+				"D:/ClassProj/game-prog-class-project/Class_Project/Content/HUDS/TankImage.uasset"
 			]
 		}
 	]
